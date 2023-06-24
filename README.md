@@ -1,9 +1,12 @@
 # Hybrid Quantum Classical WGAN with R-GCN for Synthesizing Drugs
-Nyoooooooooooommmmmmmmmmmmmmmmmm
+Nyoooooooooooommmmmmmmmmmmmmmmmm  
 Ignore this ^
 
 ## Acknowledgements
 We would like to thank ASDRP for allowing us to conduct this high-quality and groundbreaking research. We would also like to thank Max and Adelina for their diligent work in creating and/or finding all the code. And you group members for visiting this page and helping out.
+
+## Credits
+All of the code in this repository is from [here](https://keras.io/examples/generative/wgan-graphs/#wgangp-with-rgcn-for-the-generation-of-small-molecular-graphs) and [here](https://github.com/Top-Gun-Maxverick/QNetGAN/tree/main).
 
 ## Notes
 **Please do not clone this repository** *unless you are one of the collaborators*
